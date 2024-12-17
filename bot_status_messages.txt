@@ -1,0 +1,156 @@
+# Bot Durum Mesajları (Bot Status Messages)
+# Kategori: Eğlence ve Mizah (Entertainment and Humor)
+Dünyayı korumak için buradayım!
+Kahramanlar hiç uyumaz!
+Bugün de güvenlik nöbetindeyim!
+Süper kahraman modunda!
+Güvenlik sistemleri aktif!
+Hiçbir kötülük kaçamaz!
+Sunucuyu korumak için hazırım!
+Güvenlik robotu iş başında!
+Tehlikelere geçit yok!
+Her an tetikte!
+
+# Kategori: Teknoloji ve Bilim (Technology and Science)
+Yapay zeka güvenlik sistemleri çalışıyor!
+Algoritmalar devrede!
+Veri analizi sürekli devam ediyor!
+Siber güvenlik tam gaz!
+Makine öğrenimi ile izliyorum!
+Güvenlik protokolleri yüklendi!
+Sistemler optimize edildi!
+Veri akışı kontrol altında!
+Dijital kalkan aktif!
+Siber savunma modunda!
+
+# Kategori: Oyun ve Popüler Kültür (Gaming and Pop Culture)
+Boss seviyesinde güvenlik!
+Oyun modunda güvenlik!
+Kritik görev devam ediyor!
+Sunucu koruma modu: Açık!
+Güvenlik: Hardcore seviye!
+Oyun dışı alan güvende!
+Sunucu savunucusu!
+Güvenlik: Efsane seviye!
+Kritik görev: Devam ediyor!
+Sunucu koruma: Maksimum!
+
+# Kategori: Motivasyon ve Cesaret (Motivation and Courage)
+Her şeye hazırım!
+Güvenlik her şeyden önce!
+Asla pes etmeyeceğim!
+Zorlukların üstesinden geleceğim!
+Güvenlik için çalışmaya devam!
+Hiçbir engel duramaz!
+Tam gaz ilerliyorum!
+Her türlü tehdide karşı!
+Güvenlik tutkumla buradayım!
+Mücadeleye devam!
+
+# Kategori: Bilim Kurgu ve Fantazi (Science Fiction and Fantasy)
+Uzay gemisi güvenlik sistemi aktif!
+Gelecekten gelen koruyucu!
+Paralel evrende güvenlik!
+Siber savaşçı modunda!
+Robotik güvenlik sistemi!
+Gelişmiş koruma protokolü!
+Sanal kalkan devrede!
+Siber uzayda güvenlik!
+Yapay zeka koruyucusu!
+Teknolojik güvenlik!
+
+# Kategori: Günlük Yaşam ve Espri (Daily Life and Humor)
+Kahve içip sunucuyu koruyorum!
+Bugün de güvenli bir gün!
+Şaka maka güvenlik şart!
+Her an her yerde güvendeyim!
+Günün kahramanı burada!
+Güvenlik = Huzur
+Nöbetteyim, merak etmeyin!
+Güvenlik için uyanığım!
+Sunucunun bekçisi!
+Her şey kontrol altında!
+
+# Kategori: Spor ve Rekabet (Sports and Competition)
+Güvenlik liginde şampiyon!
+Savunma oyununda zirvedeyim!
+Güvenlik maçını kazanıyorum!
+Rakipsiz güvenlik robotu!
+Savunma şampiyonu!
+Güvenlik yarışında liderim!
+Mücadele ruhuyla buradayım!
+Güvenlik maratonu devam ediyor!
+Rekabetçi güvenlik modunda!
+Zafere doğru ilerliyorum!
+
+# Kategori: Doğa ve Evren (Nature and Universe)
+Güvenlik ormanında av peşinde!
+Evrenin koruyucusu!
+Doğanın dengesi için!
+Gezegen güvenliği aktif!
+Kozmik koruma modunda!
+Güvenlik ekosistemine dikkat!
+Doğal dengeyi koruyorum!
+Evrensel güvenlik!
+Gezegenler arası koruma!
+Doğanın sessiz bekçisi!
+
+# Kategori: Sanat ve Yaratıcılık (Art and Creativity)
+Güvenliği sanat gibi yapıyorum!
+Güvenlik mühendisliği!
+Yaratıcı koruma stratejileri!
+Güvenliğin inceliği!
+Sanatsal güvenlik yaklaşımı!
+İnce ayar güvenlik!
+Güvenlikte mükemmellik!
+Estetik güvenlik sistemleri!
+Sanat gibi koruma!
+Güvenlikte zanaat!
+
+# Kategori: Felsefe ve Derinlik (Philosophy and Depth)
+Güvenlik bir varoluş meselesi!
+Derin güvenlik anlayışı!
+Güvenliğin felsefi boyutu!
+Varlığın özü: Korumak!
+Güvenlik: Var olmanın anahtarı!
+Derinlemesine güvenlik!
+Güvenlik üzerine düşünceler!
+Varlık ve güvenlik!
+Güvenliğin metafiziği!
+Korumanın anlamı!
+
+# Kategori: Macera ve Keşif (Adventure and Exploration)
+Bilinmeyeni keşfediyorum!
+Güvenlik macerası!
+Sınırları aşan koruma!
+Keşif ve güvenlik!
+Maceraperest güvenlik robotu!
+Sınırların ötesinde!
+Bilinmeze doğru güvenlik!
+Keşif ruhuyla koruma!
+Macera ve güvenlik!
+Sınırsız koruma!
+
+# Kategori: Teknolojik İlham (Technological Inspiration)
+Geleceği kodluyorum!
+Teknoloji ile güvendeyiz!
+İnovasyonun gücü!
+Dijital çağın koruyucusu!
+Teknolojik devrim!
+Geleceği şekillendiriyorum!
+Yapay zeka ile güvenlik!
+Teknolojinin sınırlarında!
+Dijital çağın kahramanı!
+İnovatif koruma!
+
+# Son Kategoriler (Final Categories)
+Güvenlik her şeyden önce!
+Asla pes etmeyeceğim!
+Tam gaz ilerliyorum!
+Her türlü tehdide karşı!
+Güvenlik tutkumla buradayım!
+Mücadeleye devam!
+Sunucunun bekçisi!
+Her şey kontrol altında!
+Nöbetteyim, merak etmeyin!
+Güvenlik = Huzur

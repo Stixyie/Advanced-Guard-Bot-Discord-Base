@@ -1,0 +1,258 @@
+{
+    "discord_bot_settings": {
+        "token": "${discord_token}",
+        "description": "Discord bot authentication token, loaded from environment variables",
+        "command_prefix": "/",
+        "description_command_prefix": "The prefix used to trigger bot commands"
+    },
+    "api_keys": {
+        "virustotal_api_key": "${virustotal_api_key}",
+        "description": "API key for VirusTotal link and file safety scanning"
+    },
+    "logging": {
+        "level": "DEBUG",
+        "description_level": "Logging verbosity level (DEBUG, INFO, WARNING, ERROR, CRITICAL)",
+        "format": "%(asctime)s - %(levelname)s - %(message)s",
+        "description_format": "Standard logging format with timestamp, log level, and message"
+    },
+    "moderation": {
+        "spam_protection": {
+            "spam_time": 1,
+            "description_spam_time": "Time window in seconds to detect spam",
+            "spam_threshold": 4,
+            "description_spam_threshold": "Number of messages allowed in spam time window",
+            "duplicate_reset_time": 60,
+            "description_duplicate_reset_time": "Time in seconds to reset duplicate message tracking",
+            "duplicate_msg_threshold": 3,
+            "description_duplicate_msg_threshold": "Maximum number of duplicate messages allowed"
+        },
+        "flood_protection": {
+            "flood_threshold": 5,
+            "description_flood_threshold": "Maximum number of messages allowed in flood time window",
+            "flood_time": 10,
+            "description_flood_time": "Time window in seconds for flood detection",
+            "duplicate_threshold": 3,
+            "description_duplicate_threshold": "Maximum number of duplicate messages in flood time"
+        },
+        "content_filtering": {
+            "max_caps_percentage": 70,
+            "description_max_caps_percentage": "Maximum percentage of capital letters allowed in a message",
+            "max_emoji_count": 10,
+            "description_max_emoji_count": "Maximum number of emojis allowed in a single message",
+            "profanity_warn_threshold": 2,
+            "description_profanity_warn_threshold": "Number of profanity warnings before taking action",
+            "link_whitelist": ["discord.com", "discordapp.com"],
+            "description_link_whitelist": "Trusted domains that bypass link safety checks"
+        },
+        "auto_moderation_actions": {
+            "mute_duration_1h": 3600,
+            "description_mute_duration_1h": "Mute duration for first serious offense (1 hour)",
+            "mute_duration_24h": 86400,
+            "description_mute_duration_24h": "Mute duration for repeated offenses (24 hours)",
+            "ban_duration_temp": 604800,
+            "description_ban_duration_temp": "Temporary ban duration (7 days)",
+            "max_warnings": 3,
+            "description_max_warnings": "Maximum number of warnings before taking serious action",
+            "warning_expire_days": 30,
+            "description_warning_expire_days": "Days after which warnings are automatically cleared"
+        },
+        "raid_protection": {
+            "raid_threshold": 10,
+            "description_raid_threshold": "Number of joins that trigger raid protection",
+            "raid_time": 300,
+            "description_raid_time": "Time window for detecting raid (5 minutes)",
+            "join_rate_threshold": 5,
+            "description_join_rate_threshold": "Maximum join rate before triggering protection",
+            "raid_join_threshold": 10,
+            "description_raid_join_threshold": "Number of joins that constitute a raid",
+            "raid_join_time": 60,
+            "description_raid_join_time": "Time window for detecting rapid joins",
+            "raid_new_account_days": 7,
+            "description_raid_new_account_days": "Maximum age of new accounts considered in raid detection"
+        },
+        "message_filtering": {
+            "capitalization_threshold": 0.7,
+            "description_capitalization_threshold": "Ratio of capital letters that triggers filtering",
+            "emoji_threshold": 5,
+            "description_emoji_threshold": "Maximum number of emojis allowed in a message",
+            "message_volume_threshold": 10,
+            "description_message_volume_threshold": "Maximum number of messages in a short time"
+        },
+        "warnings_and_mutes": {
+            "warning_limit": 1,
+            "description_warning_limit": "Number of warnings before taking action",
+            "mute_duration_30s": 30,
+            "description_mute_duration_30s": "Short mute duration for minor infractions",
+            "mute_duration_5m": 300,
+            "description_mute_duration_5m": "Medium mute duration for moderate infractions"
+        }
+    },
+    "security": {
+        "log_channel": "security-logs",
+        "description_log_channel": "Channel where security-related logs are sent",
+        "trusted_roles": ["Admin", "Moderator"],
+        "description_trusted_roles": "Roles with elevated permissions and trust",
+        "audit_log_limit": 100,
+        "description_audit_log_limit": "Maximum number of audit log entries to retrieve",
+        "recovery_backup_interval": 3600,
+        "description_recovery_backup_interval": "Interval for creating recovery backups (in seconds)",
+        "max_mentions_per_message": 5,
+        "description_max_mentions_per_message": "Maximum number of mentions allowed in a single message",
+        "max_role_creations_per_hour": 5,
+        "description_max_role_creations_per_hour": "Maximum number of roles that can be created in an hour",
+        "max_channel_creations_per_hour": 5,
+        "description_max_channel_creations_per_hour": "Maximum number of channels that can be created in an hour",
+        "max_webhook_creations_per_hour": 3,
+        "description_max_webhook_creations_per_hour": "Maximum number of webhooks that can be created in an hour",
+        "anti_raid_enabled": true,
+        "description_anti_raid_enabled": "Enable or disable automatic anti-raid protection",
+        "auto_backup_enabled": true,
+        "description_auto_backup_enabled": "Enable or disable automatic server configuration backups"
+    },
+    "safety": {
+        "image_duplicate_time_window": 60,
+        "description_image_duplicate_time_window": "Time window to detect duplicate images (in seconds)",
+        "slow_mode_delay": 5,
+        "description_slow_mode_delay": "Default slow mode delay for channels (in seconds)"
+    },
+    "file_paths": {
+        "user_data_file": "user_data.json",
+        "description_user_data_file": "Path to store user-specific data",
+        "server_config_backup": "server_config_backup.json",
+        "description_server_config_backup": "Path to store server configuration backups"
+    },
+    "content_filter": {
+        "profanity_similarity_threshold": 80,
+        "description_profanity_similarity_threshold": "Fuzzy matching threshold for detecting similar profane words",
+        "profanity_list_path": "profanity_list.txt",
+        "description_profanity_list_path": "Path to the text file containing profane words",
+        "auto_delete_profanity": true,
+        "description_auto_delete_profanity": "Automatically delete messages containing profanity",
+        "max_profanity_warnings": 3,
+        "description_max_profanity_warnings": "Maximum number of profanity warnings before taking action",
+        "penalties": {
+            "1": "warning",
+            "description_1": "First offense results in a warning",
+            "2": "mute_5m",
+            "description_2": "Second offense results in a 5-minute mute",
+            "3": "mute_1h",
+            "description_3": "Third offense results in a 1-hour mute",
+            "4": "temp_ban",
+            "description_4": "Fourth offense results in a temporary ban"
+        }
+    },
+    "security_protection": {
+        "role_protection_levels": {
+            "none": 0,
+            "description_none": "No protection for roles",
+            "basic": 1,
+            "description_basic": "Prevent critical role deletions and updates",
+            "strict": 2,
+            "description_strict": "Complete prevention of role modifications"
+        },
+        "channel_protection_levels": {
+            "none": 0,
+            "description_none": "No protection for channels",
+            "basic": 1,
+            "description_basic": "Prevent critical channel deletions and updates",
+            "strict": 2,
+            "description_strict": "Complete prevention of channel modifications"
+        },
+        "server_update_protection_levels": {
+            "none": 0,
+            "description_none": "No protection for server updates",
+            "basic": 1,
+            "description_basic": "Prevent critical server changes",
+            "strict": 2,
+            "description_strict": "Complete prevention of server updates"
+        },
+        "member_update_protection_levels": {
+            "none": 0,
+            "description_none": "No protection for member updates",
+            "basic": 1,
+            "description_basic": "Prevent critical member changes",
+            "strict": 2,
+            "description_strict": "Complete prevention of member updates"
+        },
+        "protection_limits": {
+            "max_protected_roles_per_guild": 10,
+            "description_max_protected_roles_per_guild": "Maximum number of roles that can be protected in a guild",
+            "max_protected_channels_per_guild": 10,
+            "description_max_protected_channels_per_guild": "Maximum number of channels that can be protected in a guild",
+            "max_protected_members_per_guild": 20,
+            "description_max_protected_members_per_guild": "Maximum number of members that can be protected in a guild",
+            "max_protected_bots_per_guild": 5,
+            "description_max_protected_bots_per_guild": "Maximum number of bots that can be protected in a guild"
+        },
+        "unauthorized_action_logging": {
+            "log_unauthorized_actions": true,
+            "description_log_unauthorized_actions": "Log unauthorized modification attempts",
+            "max_unauthorized_action_logs": 100,
+            "description_max_unauthorized_action_logs": "Maximum number of unauthorized action logs to retain"
+        },
+        "protection_bypass": {
+            "bypass_protection_roles": ["Admin", "Owner"],
+            "description_bypass_protection_roles": "Roles that can bypass protection mechanisms"
+        },
+        "default_protection_levels": {
+            "default_role_protection": "basic",
+            "description_default_role_protection": "Default protection level for roles",
+            "default_channel_protection": "basic",
+            "description_default_channel_protection": "Default protection level for channels",
+            "default_server_update_protection": "basic",
+            "description_default_server_update_protection": "Default protection level for server updates",
+            "default_member_update_protection": "basic",
+            "description_default_member_update_protection": "Default protection level for member updates"
+        }
+    },
+    "performance": {
+        "concurrent_tasks": {
+            "max_concurrent_tasks": 50,
+            "description_max_concurrent_tasks": "Maximum number of tasks that can run simultaneously",
+            "max_queue_size": 1000,
+            "description_max_queue_size": "Maximum number of tasks that can be queued"
+        },
+        "caching": {
+            "user_action_cache_size": 10000,
+            "description_user_action_cache_size": "Maximum number of user actions to cache",
+            "guild_config_cache_size": 100,
+            "description_guild_config_cache_size": "Maximum number of guild configurations to cache"
+        },
+        "monitoring": {
+            "monitoring_interval": 300,
+            "description_monitoring_interval": "Performance monitoring interval in seconds",
+            "cache_cleanup_interval": 3600,
+            "description_cache_cleanup_interval": "Interval for cleaning up cached data in seconds"
+        },
+        "rate_limiting": {
+            "rate_limit_window": 10,
+            "description_rate_limit_window": "Time window for rate limiting in seconds",
+            "rate_limit_max_actions": 5,
+            "description_rate_limit_max_actions": "Maximum number of actions allowed in rate limit window"
+        }
+    },
+    "server_backup": {
+        "auto_backup": {
+            "interval": 3600,
+            "description_interval": "Automatic server backup interval in seconds",
+            "enabled": true,
+            "description_enabled": "Enable or disable automatic server backups"
+        },
+        "backup_strategy": {
+            "max_backups_to_keep": 10,
+            "description_max_backups_to_keep": "Maximum number of backup files to retain",
+            "backup_file_prefix": "server_backup_",
+            "description_backup_file_prefix": "Prefix for backup configuration files"
+        },
+        "backup_contents": {
+            "include_roles": true,
+            "description_include_roles": "Include server roles in backup",
+            "include_channels": true,
+            "description_include_channels": "Include server channels in backup",
+            "include_permissions": true,
+            "description_include_permissions": "Include role and channel permissions in backup",
+            "include_integrations": false,
+            "description_include_integrations": "Include server integrations in backup"
+        }
+    }
+}

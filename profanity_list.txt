@@ -1,0 +1,1033 @@
+# Türkçe Küfür Listesi (Comprehensive Turkish Profanity List)
+# Not: Bu liste yalnızca içerik filtreleme amaçlıdır.
+# Note: This list is for content filtering purposes only.
+
+# Temel Küfürler (Basic Profanity)
+amcık
+siktiğim
+sikerim
+orospu
+orospu çocuğu
+piç
+göt
+götoğlu
+ibne
+meme
+sik
+sikerim
+sikilmiş
+siktir
+siktirsin
+sıçmak
+sıçarım
+yarak
+yarrak
+yavşak
+züğürt
+
+# Hakaret Küfürleri (Insulting Profanity)
+aptal
+gerizekalı
+salak
+şerefsiz
+alçak
+hain
+yalancı
+ahmak
+budala
+dangalak
+ebleh
+mal
+manyak
+rezil
+sefil
+sünepe
+züppe
+kaltak
+sürtük
+pislik
+ahlaksız
+namussuz
+şımarık
+beceriksiz
+densiz
+hödük
+kevaşe
+pezevenk
+puşt
+yalancı
+züppe
+
+# Cinsel İçerikli Küfürler (Sexual Profanity)
+am
+amına
+amcık
+götüm
+götüne
+götünü
+sikişmek
+sikmek
+sikilmek
+sokuşturmak
+yatmak
+becermek
+sikko
+siktir
+sokuş
+sikilesi
+sikişgen
+götlek
+amına koyduğum
+sikilmiş
+sik kafalı
+
+# Aşağılayıcı Cinsiyet İfadeleri (Derogatory Gender Terms)
+karı
+erkek
+kadın
+kız
+oğlan
+kancık
+dönek
+yosma
+fahişe
+metres
+orospunun evladı
+kaltak
+sürtük
+kevaşe
+yosma
+metres
+kancık
+dönek
+
+# Etnik ve Kültürel Hakaret (Ethnic and Cultural Insults)
+yobaz
+gerici
+cahil
+ezik
+aşağılık
+zavallı
+beceriksiz
+verimsiz
+düzensiz
+yeteneksiz
+geri kafalı
+cahil
+yobaz
+gerici
+ezik
+aşağılık
+zavallı
+beceriksiz
+
+# Hakaret İçeren Aile İfadeleri (Family-Related Insults)
+analık
+babalık
+kardeş
+anne
+baba
+nine
+dede
+evlat
+piç
+orospu çocuğu
+analık
+babalık
+piçin evladı
+orospu tohumu
+şerefsiz evlat
+ahlaksız evlat
+
+# Psikolojik Hakaret (Psychological Insults)
+deli
+çılgın
+sapık
+hasta
+rahatsız
+psikolojik
+akılsız
+düşüncesiz
+vicdansız
+merhametsiz
+bunağın teki
+aptalın teki
+salağın biri
+gerizekalı
+manyak
+çılgın
+hasta
+sapık
+
+# Cinsel Yönelim ve Kimlik Hakaretleri (Sexual Orientation and Identity Insults)
+ibne
+sapık
+hasta
+anormal
+ucube
+garip
+tuhaf
+ibne
+piç
+züppe
+sapık
+hasta
+anormal
+
+# Fiziksel Hakaret (Physical Insults)
+çirkin
+kötü
+berbat
+iğrenç
+kötürüm
+sakat
+topal
+kör
+sağır
+çolak
+topal
+sakat
+kötürüm
+çirkin
+iğrenç
+
+# Davranış Hakaretleri (Behavior Insults)
+alık
+aptal
+salak
+gerizekalı
+bunak
+serseri
+züppe
+hovarda
+arsız
+utanmaz
+densiz
+terbiyesiz
+saygısız
+ahlaksız
+pişkin
+
+# Ekonomik ve Sosyal Hakaret (Economic and Social Insults)
+fakir
+zengin
+züğürt
+dilenci
+asalak
+parazit
+sefil
+perişan
+zavallı
+yoksul
+züğürt
+dilenci
+asalak
+parazit
+sefil
+
+# Küfür Varyasyonları (Profanity Variations)
+amına koyayım
+sikerim belanı
+götünü sikeyim
+siktir git
+sana mı kaldı
+siktir olup git
+ananı sikeyim
+babanın amına koyayım
+sikerim ananı
+götünü siktiğimin
+siktir git buradan
+ananın amına koyayım
+
+# Aşağılayıcı Hayvan İsimleri (Derogatory Animal Names)
+eşek
+öküz
+eşşek
+köpek
+domuz
+keçi
+eşşoğlueşşek
+it
+pislik
+öküz
+eşek
+domuz
+keçi
+it
+sürü
+
+# Küfür Benzeri Hakaret İfadeleri (Profanity-Like Insults)
+ağzına sağlık
+götünü sikeyim
+sikerim belanı
+siktir git
+ananı sikeyim
+babanın amına koyayım
+siktir lan
+sana mı kaldı
+defol git
+siktir et gitsin
+
+# Cinsel Organlar ve İlgili Küfürler (Sexual Organs and Related Profanity)
+yarak
+yarrak
+sik
+am
+amcık
+göt
+götüm
+penis
+vajina
+yarra
+sik
+am
+amcık
+göt
+götüm
+
+# Aşağılayıcı Zeka İfadeleri (Derogatory Intelligence Terms)
+salak
+aptal
+gerizekalı
+budala
+ahmak
+mal
+ebleh
+dangalak
+kaçık
+serseri
+salağın teki
+aptalın biri
+gerizekalı herif
+mal adam
+ebleh
+
+# Aşırı Hakaret İçeren İfadeler (Extremely Offensive Expressions)
+ananı sikeyim
+babanın amına koyayım
+sikerim belanı
+götünü sikeyim
+siktir git
+sana mı kaldı
+siktir olup git
+ananın amına koyayım
+sikerim ananı
+götünü siktiğimin
+
+# Cinsel İçerikli Hakaret Öbekleri (Sexual Offensive Clusters)
+am çukuru
+göt deliği
+sik kırığı
+am makinesi
+göt lalesi
+sik kafası
+am ağzı
+göt herifi
+sik soktum
+am deldiğim
+göt yalayıcı
+sik kafalı
+am ağızlı
+göt deliği
+sik kırığı
+am çukuru
+göt lalesi
+
+# Küfür Kombinasyonları (Profanity Combinations)
+amına koyduğumun
+sikerim senin
+götünü siktiğimin
+siktir git lan
+ananın amına koyduğum
+babanın amına koyduğum
+sikerim belanı
+götünü sikeyim
+siktir olup git
+ananı siktiğimin
+
+# Son Eklemeler (Final Additions)
+manyak
+gerizekalı
+salak
+aptal
+piç
+ibne
+yarak
+yarrak
+sik
+am
+amcık
+göt
+orospu
+şerefsiz
+alçak
+hain
+yalancı
+ahmak
+budala
+dangalak
+ebleh
+mal
+rezil
+sefil
+sünepe
+züppe
+kaltak
+sürtük
+pislik
+ahlaksız
+namussuz
+şımarık
+beceriksiz
+densiz
+hödük
+kevaşe
+pezevenk
+puşt
+yalancı
+züppe
+
+# Ekstra Küfür Çeşitlemeleri (Extra Profanity Variations)
+amk
+aq
+sg
+mk
+am
+sik
+got
+ibne
+oç
+pic
+yarrak
+siktir
+siktirsin
+sikerim
+siktiğim
+götünü sikeyim
+ananı sikeyim
+babanın amına koyayım
+sikerim belanı
+siktir git lan
+
+# Ek Türkçe Küfür Listesi (Additional Turkish Profanity List)
+
+# Yeni Hakaret Kategorileri (New Insult Categories)
+enayi
+aptal herif
+salak karı
+gerizekalı çocuk
+beyinsiz
+düşüncesiz
+anlayışsız
+boş kafa
+sığ zeka
+donmuş beyin
+paslanmış kafa
+çalışmayan beyin
+devre dışı kafa
+kısa devre beyinli
+düşünme ünitesi bozuk
+anlama motoru çökmüş
+kavrama sistemi çalışmayan
+
+# Gelişmiş Hakaret İfadeleri (Advanced Insult Expressions)
+ananın amına füze düşsün
+babanın amına bomba insin
+sikerim belanı dümdüz
+götünü siktiğimin evladı
+ananı sikeyim de büyüsün
+babanın amına taş koyayım
+sikerim senin ırzını
+götünü siktiğimin malı
+ananın amına koyduğumun
+babanın amına koyduğumun evladı
+sikerim senin kafanı
+götünü siktiğimin salağı
+ananı sikeyim de akıllan
+babanın amına taş düşsün
+sikerim senin beynini
+götünü siktiğimin gerizekalısı
+
+# Detaylı Cinsel İçerikli Küfürler (Detailed Sexual Profanity)
+am çukuru
+göt deliği
+sik kırığı
+am makinesi
+göt lalesi
+sik kafası
+am ağzı
+göt herifi
+sik soktum
+am deldiğim
+göt yalayıcı
+sik kafalı
+am ağızlı
+göt deliği
+sik kırığı
+am çukuru
+göt lalesi
+
+# Gelişmiş Aşağılama İfadeleri (Advanced Degrading Expressions)
+seni bir çöplük faresi
+seni bir kanalizasyon artığı
+seni bir çamur yığını
+seni bir çöp tenekesi
+seni bir pislik yığını
+seni bir çukur artığı
+seni bir lağım çukuru
+seni bir çöplük kedisi
+seni bir çamur böceği
+seni bir kanalizasyon faresi
+
+# Detaylı Cinsiyet Hakaretleri (Detailed Gender Insults)
+yarım erkek
+yarım kadın
+eksik insan
+saçma sapan kadın
+aptal erkek
+gereksiz insan
+boş kadın
+anlamsız erkek
+işe yaramaz kadın
+boş herif
+anlayışsız erkek
+gereksiz kadın
+
+# Gelişmiş Zeka Hakaretleri (Advanced Intelligence Insults)
+sıfır zeka
+eksi zeka
+donmuş beyin
+paslanmış kafa
+çalışmayan beyin
+devre dışı kafa
+kısa devre beyinli
+düşünme ünitesi bozuk
+anlama motoru çökmüş
+kavrama sistemi çalışmayan
+
+# Detaylı Psikolojik Hakaret (Detailed Psychological Insults)
+ruh hastası
+akıl hastası
+sapık ruhlu
+hasta kafa
+bozuk düşünceli
+çatlak kişilik
+rahatsız zihin
+dengesiz ruh
+psikolojik sorunlu
+travma yüklü
+bunalım hastası
+depresyon yüklü
+panik atak hastası
+şizofreni belirtili
+obsesif kompulsif
+
+# Gelişmiş Davranış Hakaretleri (Advanced Behavior Insults)
+terbiyesiz herif
+saygısız kadın
+arsız çocuk
+utanmaz insan
+densiz adam
+pişkin karı
+ahlaksız çocuk
+vicdansız adam
+merhametsiz kadın
+karaktersiz insan
+onursuz herif
+şerefsiz kadın
+yüzsüz adam
+hayasız çocuk
+edepsiz insan
+
+# Detaylı Sosyal Hakaret (Detailed Social Insults)
+toplum artığı
+sosyal çöplük
+insan çöpü
+toplumsal pislik
+sosyal parazit
+insan atığı
+toplumsal çürük
+sosyal hastalık
+insan fazlalığı
+toplumsal yük
+sosyal çöp
+insan artığı
+toplumsal pislik
+sosyal parazit
+insan çöpü
+
+# Gelişmiş Etnik Hakaret (Advanced Ethnic Insults)
+cahil ruhlu
+gerici zihinli
+yobaz düşünceli
+dar kafalı
+geri zekalı
+ilkel düşünceli
+çağdışı ruhlu
+körü körüne bağlı
+dar görüşlü
+tutucu zihinli
+statükocu
+değişime kapalı
+düşünemeyen
+körleşmiş beyin
+donmuş kafa
+
+# Detaylı Fiziksel Hakaret (Detailed Physical Insults)
+çirkin suratlı
+iğrenç görünümlü
+berbat yapılı
+kötü görünüşlü
+çarpık suratlı
+yamuk yapılı
+düzensiz görünümlü
+çirkin vücutlu
+iğrenç tipli
+berbat suratlı
+çok çirkin
+dayanılmaz görünümlü
+rezil suratlı
+pis görünüşlü
+iğrenç tipli
+
+# Gelişmiş Hayvan Hakaretleri (Advanced Animal Insults)
+eşek kafalı
+öküz herif
+domuz suratlı
+keçi herif
+it ruhlu
+sürüngen gibi
+yılan suratlı
+fare kafalı
+köpek herif
+deve suratlı
+balık hafızalı
+solucan gibi
+kedi ruhlu
+kurt suratlı
+ayı gibi
+
+# Detaylı Cinsel Organ Hakaretleri (Detailed Sexual Organ Insults)
+yarak kafalı
+am ağızlı
+göt herifi
+sik kırığı
+am çukuru
+göt deliği
+yarra kafalı
+am makinesi
+göt lalesi
+sik kafası
+am ağzı
+göt herifi
+sik soktum
+am deldiğim
+göt yalayıcı
+sik kafalı
+
+# Gelişmiş Kombinasyon Küfürleri (Advanced Combination Profanity)
+ananın amına koyduğumun salağı
+sikerim senin beynini
+götünü siktiğimin gerizekalısı
+ananı sikeyim de akıllan
+babanın amına taş düşsün
+sikerim senin kafanı
+götünü siktiğimin malı
+ananın amına koyduğumun
+babanın amına koyduğumun evladı
+sikerim senin ırzını
+götünü siktiğimin evladı
+ananı sikeyim de büyüsün
+babanın amına bomba insin
+ananın amına füze düşsün
+sikerim belanı dümdüz
+
+# Son Eklemeler (Final Additions)
+amk
+aq
+sg
+mk
+am
+sik
+got
+ibne
+oç
+pic
+yarrak
+siktir
+siktirsin
+sikerim
+siktiğim
+götünü sikeyim
+ananı sikeyim
+babanın amına koyayım
+sikerim belanı
+siktir git lan
+
+# Genişletilmiş Türkçe Küfür Listesi (Extended Turkish Profanity List)
+
+# Ultra Gelişmiş Hakaret Kategorileri (Ultra Advanced Insult Categories)
+aptalın dibi
+salağın kraliçesi
+gerizekalının babası
+beyinsiz evren
+düşüncesiz gezegen
+anlayışsız galaksi
+boş kafa imparatoru
+sığ zeka kralı
+donmuş beyin hanedanı
+paslanmış kafa prensi
+çalışmayan beyin generali
+devre dışı kafa amirali
+kısa devre beyinli komutanı
+düşünme ünitesi bozuk lideri
+anlama motoru çökmüş başkanı
+kavrama sistemi çalışmayan şefi
+
+# Ultra Detaylı Hakaret İfadeleri (Ultra Detailed Insult Expressions)
+ananın amına meteor düşsün
+babanın amına volkan patlatayım
+sikerim belanı uzaya fırlatayım
+götünü siktiğimin evren artığı
+ananı sikeyim de evrene yayılsın
+babanın amına siyah delik açayım
+sikerim senin tüm genetiğini
+götünü siktiğimin mutant artığı
+ananın amına kuantum bombası
+babanın amına zaman tüneli
+sikerim senin tüm boyutlarını
+götünü siktiğimin paralel evreni
+
+# Gelişmiş Psikolojik Çöküş Hakaretleri (Advanced Psychological Breakdown Insults)
+ruh çöküntüsü
+akıl yıkıntısı
+zihin enkazı
+düşünce harabeleri
+psikolojik yıkım
+mental çöküş uzmanı
+zihinsel enkaz mühendisi
+ruhsal yıkım mimarı
+düşünce yıkıcısı
+psikolojik yıkım ustası
+akıl çökertme üstadı
+zihin parçalama ustası
+
+# Evrensel Aşağılama İfadeleri (Universal Degrading Expressions)
+seni bir evren çöplüğü
+seni bir galaktik çöp
+seni bir uzay çöplüğü
+seni bir kozmos artığı
+seni bir yıldız çöpü
+seni bir gezegen çukuru
+seni bir evren pisliği
+seni bir galaktik pislik
+seni bir uzay artığı
+seni bir kozmos çöpü
+
+# Gelişmiş Zeka Yıkım Hakaretleri (Advanced Intelligence Destruction Insults)
+zeka yoksunu
+düşünce yokluğu
+anlama yetersizliği
+kavrama eksikliği
+beyin yoksunluğu
+zihin körlüğü
+düşünce sakatlığı
+akıl tutulması
+zihinsel körlük
+beyin tutulması
+düşünce felci
+akıl tutulması
+
+# Ultra Detaylı Cinsel İçerikli Küfürler (Ultra Detailed Sexual Profanity)
+am çukuru evreninin hükümdarı
+göt deliği imparatorluğu
+sik kırığı krallığı
+am makinesi generali
+göt lalesi komutanı
+sik kafası başkanı
+am ağzı lideri
+göt herifi şefi
+sik soktum amirali
+am deldiğim komutanı
+göt yalayıcı prensi
+sik kafalı sultanı
+
+# Gelişmiş Davranış Yozlaşma Hakaretleri (Advanced Behavior Degradation Insults)
+terbiyesizlik üstadı
+saygısızlık şampiyonu
+arsızlık kraliçesi
+utanmazlık prensi
+densizlik generali
+pişkinlik komutanı
+ahlaksızlık lideri
+vicdansızlık başkanı
+merhametsizlik şefi
+karaktersizlik amirali
+onursuzluk komutanı
+şerefsizlik generali
+
+# Ultra Sosyal Çöküş Hakaretleri (Ultra Social Collapse Insults)
+toplumsal çöküş mimarı
+sosyal yıkım mühendisi
+insan enkaz uzmanı
+toplumsal çürüme ustası
+sosyal çöp mühendisi
+insan atığı mimarı
+toplumsal pislik mütehassısı
+sosyal parazit şefi
+insan fazlalığı lideri
+toplumsal yük generali
+
+# Gelişmiş Etnik Bilinç Yıkımı (Advanced Ethnic Consciousness Destruction)
+cahillik zirvesi
+gericilik kalesi
+yobazlık imparatorluğu
+dar kafalılık cumhuriyeti
+geri zekalılık krallığı
+ilkellik hanedanı
+çağdışılık devleti
+körü körüne bağlılık cumhuriyeti
+dar görüşlülük imparatorluğu
+tutuculuk krallığı
+statükoculuk devleti
+değişime kapalılık cumhuriyeti
+
+# Ultra Fiziksel Aşağılama (Ultra Physical Degradation)
+çirkinlik kraliçesi
+iğrençlik imparatoru
+berbatlık generali
+kötülük komutanı
+çarpıklık başkanı
+yamuluk lideri
+düzensizlik şefi
+çirkinlik amirali
+iğrençlik prensi
+berbatlık sultanı
+
+# Gelişmiş Hayvan Hakaret Evreni (Advanced Animal Insult Universe)
+eşek kafalı evren imparatoru
+öküz herif galaksi komutanı
+domuz suratlı gezegen lideri
+keçi herif uzay generali
+it ruhlu kozmos şefi
+sürüngen gibi evren başkanı
+yılan suratlı galaksi prensi
+fare kafalı gezegen amirali
+köpek herif uzay sultanı
+deve suratlı kozmos komutanı
+
+# Detaylı Cinsel Organ Evren Hakaretleri (Detailed Sexual Organ Universe Insults)
+yarak kafalı evren imparatoru
+am ağızlı galaksi generali
+göt herifi kozmos lideri
+sik kırığı gezegen başkanı
+am çukuru uzay komutanı
+göt deliği evren şefi
+yarra kafalı galaksi prensi
+am makinesi kozmos amirali
+göt lalesi gezegen sultanı
+sik kafası uzay lideri
+
+# Son Derece Gelişmiş Kombinasyon Küfürleri (Extremely Advanced Combination Profanity)
+ananın amına koyduğumun evren salağı
+sikerim senin tüm genetik kodlarını
+götünü siktiğimin mutant gerizekalısı
+ananı sikeyim de galaksiye yayılsın
+babanın amına kuantum bombası düşsün
+sikerim senin tüm boyut geçişlerini
+götünü siktiğimin paralel evren artığı
+ananın amına zaman tüneli açayım
+babanın amına siyah delik düşsün
+sikerim senin tüm varoluş nedenini
+
+# Son Eklemeler (Final Additions)
+amk
+aq
+sg
+mk
+am
+sik
+got
+ibne
+oç
+pic
+yarrak
+siktir
+siktirsin
+sikerim
+siktiğim
+götünü sikeyim
+ananı sikeyim
+babanın amına koyayım
+sikerim belanı
+siktir git lan
+
+# Kapsamlı Türkçe Küfür Evreni (Comprehensive Turkish Profanity Universe)
+
+# Metafizik Hakaret Katmanları (Metaphysical Insult Layers)
+düşünce çöplüğü
+zeka enkaz alanı
+anlama yeteneği çökmüş
+kavrama sistemi arızalı
+beyin fonksiyon hatası
+zihinsel devre dışı
+düşünce mekanizması çöken
+akıl algoritması bozuk
+nöron bağlantıları kopuk
+bilişsel işlev çöküntüsü
+mental yazılım hatası
+kognitif sistem çöküşü
+
+# Varoluşsal Aşağılama Formülleri (Existential Degradation Formulas)
+seni bir varoluş hatası
+evrene yük olan varlık
+var olmaması gereken birim
+yaratılış mühendisliği hatası
+doğa yasalarına aykırı nesne
+evrensel tasarım kusuru
+varoluş sebebi belirsiz birim
+yaradılış mühendisliği arızası
+doğa planına uyumsuz varlık
+evrensel düzen dışı birim
+
+# Gelişmiş Psikolojik Yıkım Algoritmaları (Advanced Psychological Destruction Algorithms)
+ruhsal çöküş mühendisi
+zihinsel yıkım uzmanı
+psikolojik enkaz mimarı
+mental çökertme ustası
+ruhsal deformasyon mimarı
+zihinsel tahribat mühendisi
+psikolojik yıkım programcısı
+akıl çökertme algoritması
+ruhsal çürüme mühendisi
+zihinsel yıkım yazılımcısı
+
+# Evrensel Aşağılama Protokolleri (Universal Degradation Protocols)
+galaktik çöp protokolü
+kozmos artığı prosedürü
+uzay çöplüğü standart modeli
+evrensel pislik algoritması
+galaktik atık yönetimi
+kozmos çöp toplama sistemi
+uzay artığı sınıflandırma modeli
+evrensel pislik dağıtım ağı
+galaktik çöp transfer sistemi
+kozmos atık yönetim protokolü
+
+# Genetik Hakaret Mühendisliği (Genetic Insult Engineering)
+genetik kusur
+DNA hata raporu
+kromozom düzensizliği
+gen dizilimi arızası
+genetik kod çöküşü
+mutasyon hatası
+genomik düzensizlik
+genetik yazılım hatası
+kromozom yıkımı
+DNA mühendisliği arızası
+
+# Davranışsal Yozlaşma Mimarisi (Behavioral Degradation Architecture)
+terbiyesizlik mühendisliği
+saygısızlık mimarlığı
+arsızlık sistematiği
+utanmazlık protokolü
+densizlik mimarisi
+pişkinlik mühendisliği
+ahlaksızlık sistematiği
+vicdansızlık mimarisi
+merhametsizlik protokolü
+karaktersizlik mühendisliği
+
+# Sosyal Çöküş Mühendisliği (Social Collapse Engineering)
+toplumsal çöküş mimarı
+sosyal yıkım mühendisi
+insan artığı sistematiği
+toplumsal çürüme algoritması
+sosyal parazit protokolü
+insan atığı yönetim sistemi
+toplumsal pislik dağıtım ağı
+sosyal yük transfer modeli
+insan fazlalığı sınıflandırma sistemi
+toplumsal çöküş yönetim protokolü
+
+# Etnik Bilinç Yıkım Teknolojisi (Ethnic Consciousness Destruction Technology)
+cahillik mühendisliği
+gericilik mimarlığı
+yobazlık sistematiği
+dar kafalılık protokolü
+geri zekalılık mimarisi
+ilkellik mühendisliği
+çağdışılık sistematiği
+körü körüne bağlılık protokolü
+dar görüşlülük mimarisi
+tutuculuk mühendisliği
+
+# Ultra Fiziksel Tahribat Modelleri (Ultra Physical Destruction Models)
+çirkinlik mühendisliği
+iğrençlik mimarlığı
+berbatlık sistematiği
+kötülük protokolü
+çarpıklık mimarisi
+yamuluk mühendisliği
+düzensizlik sistematiği
+çirkinlik transfer modeli
+iğrençlik dağıtım ağı
+berbatlık yönetim protokolü
+
+# Hayvan Hakaret Evreni Mühendisliği (Animal Insult Universe Engineering)
+eşek kafalılık protokolü
+öküz herif sistematiği
+domuz suratlılık mimarisi
+keçi herif mühendisliği
+it ruhlu transfer modeli
+sürüngen gibi dağıtım ağı
+yılan suratlılık yönetim sistemi
+fare kafalılık protokolü
+köpek herif sistematiği
+deve suratlılık mimarisi
+
+# Cinsel Organ Evren Yönetim Sistemi (Sexual Organ Universe Management System)
+yarak kafalılık protokolü
+am ağızlılık sistematiği
+göt herifi mühendisliği
+sik kırığı mimarlığı
+am çukuru transfer modeli
+göt deliği dağıtım ağı
+yarra kafalılık yönetim sistemi
+am makinesi protokolü
+göt lalesi sistematiği
+sik kafası mühendisliği
+
+# Son Derece Gelişmiş Kombinasyon Küfürleri (Extremely Advanced Combination Profanity)
+ananın amına koyduğumun evrensel hata kodu
+sikerim senin tüm varoluş algoritmalarını
+götünü siktiğimin genetik çöplüğü
+ananı sikeyim de evrene yayılan pislik
+babanın amına sistemsel çöküş
+sikerim senin tüm davranış protokollerini
+götünü siktiğimin sosyal yük transfer modeli
+ananın amına mühendislik hatası
+babanın amına yazılım çöküşü
+sikerim senin tüm bilinç sistemlerini
+
+# Son Eklemeler (Final Additions)
+amk
+aq
+sg
+mk
+am
+sik
+got
+ibne
+oç
+pic
+yarrak
+siktir
+siktirsin
+sikerim
+siktiğim
+götünü sikeyim
+ananı sikeyim
+babanın amına koyayım
+sikerim belanı
+siktir git lan
